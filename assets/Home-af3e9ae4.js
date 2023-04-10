@@ -1,1 +1,0 @@
-import{d as l,c as e,F as s}from"./index-36a39b66.js";const o=new URL("/blog.github.io/assets/welcome-65a50eaa.png",self.location).href;console.log(o);const n=l({name:"Home",setup(){return()=>e(s,null,[e("img",{class:"w-full h-full",src:o},null)])}});export{n as default};
