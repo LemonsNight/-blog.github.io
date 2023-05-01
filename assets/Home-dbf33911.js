@@ -1,0 +1,1 @@
+import{d as l,c as e,F as s}from"./index-9c6dccb9.js";const o=new URL("/blog_v2/assets/welcome-65a50eaa.png",self.location).href;console.log(o);const n=l({name:"Home",setup(){return()=>e(s,null,[e("img",{class:"w-full h-full",src:o},null)])}});export{n as default};
